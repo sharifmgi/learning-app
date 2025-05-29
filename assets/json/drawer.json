@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "Home", 
+      "icon": "home"
+    },
+    {
+      "id": 2,
+      "title": "Categories", 
+      "icon": "category"
+    },
+    {
+      "id": 3,
+      "title": "Bookmark", 
+      "icon": "bookmark"
+    },
+    {
+      "id": 4,
+      "title": "Settings", 
+      "icon": "settings"
+    },
+    {
+      "id": 5,
+      "title": "About Us", 
+      "icon": "info"
+    },
+    {
+      "id": 6,
+      "title": "Logout", 
+      "icon": "logout"
+    } 
+  ]
+  
